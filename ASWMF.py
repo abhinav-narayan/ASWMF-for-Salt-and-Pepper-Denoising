@@ -5,7 +5,7 @@ Adaptive Switching Mean Filter (ASWMF)
 
 """
 
-from ReWeightedMean import reweightmean
+from RW import reweightmean
 import numpy as np
 import cv2
 from skimage.util import random_noise
