@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-Adaptive Shifted Weighted Mean Filter (ASWMF)
+Adaptive Switching Mean Filter (ASWMF)
 
 """
 
